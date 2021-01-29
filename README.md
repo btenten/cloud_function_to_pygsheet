@@ -1,4 +1,4 @@
-# cloud_function_to_pygsheet
+# cloud_function_to_pygsheet_line_notify
 Demonstrate using Google Cloud Function to get data and paste to Google Sheet using pygsheet, then notify the process result via LINE
 
 ## prerequisite
