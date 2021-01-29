@@ -7,7 +7,7 @@ Demonstrate using Google Cloud Function to get data and paste to Google Sheet us
 - Google service account and keys.
 - Prepared Google Sheet which already granted access to Google service account.
 
-# Steps
+### Steps
 1. Go to Google Cloud Platform > Cloud Functions
 2. Select 'Create Function'
 3. In section 'Trigger' select 'Cloud Pub/Sub', create and save your topic.
