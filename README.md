@@ -2,7 +2,7 @@
 Demonstrate using Google Cloud Function to get data and paste to Google Sheet using pygsheet, then notify the process result via LINE
 
 
-## prerequisite
+## prerequisites
 - LINE token
 - Google service account and keys.
 - Prepared Google Sheet which already granted access to Google service account.
